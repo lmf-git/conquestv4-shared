@@ -9,5 +9,8 @@ export const MessageTypes = {
   FIRE: 'fire',
   HIT: 'hit',
   PROJECTILE_SPAWN: 'projectileSpawn',
-  PROJECTILE_REMOVE: 'projectileRemove'
+  PROJECTILE_REMOVE: 'projectileRemove',
+  ENTER_VEHICLE: 'enterVehicle',
+  EXIT_VEHICLE: 'exitVehicle',
+  VEHICLE_UPDATE: 'vehicleUpdate'
 };
