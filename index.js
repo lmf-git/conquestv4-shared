@@ -9,8 +9,3 @@ export * from './entity/vehicles.js';
 
 // Host exports
 export * from './host/game.js';
-
-// Re-export game constants
-export const GameConstants = {
-  TICK_RATE: 60
-};
