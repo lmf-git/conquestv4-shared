@@ -1,0 +1,13 @@
+export const MessageTypes = {
+  INIT: 'init',
+  JOIN: 'join',
+  LEAVE: 'leave',
+  INPUT: 'input',
+  GAME_STATE: 'gameState',
+  PLAYER_JOINED: 'playerJoined',
+  PLAYER_LEFT: 'playerLeft',
+  FIRE: 'fire',
+  HIT: 'hit',
+  PROJECTILE_SPAWN: 'projectileSpawn',
+  PROJECTILE_REMOVE: 'projectileRemove'
+};
