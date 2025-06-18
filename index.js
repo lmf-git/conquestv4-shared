@@ -6,6 +6,7 @@ export * from './core/physics.js';
 export * from './entity/players.js';
 export * from './entity/weapons.js';
 export * from './entity/vehicles.js';
+export * from './entity/ghosts.js';
 
 // Host exports
 export * from './host/game.js';

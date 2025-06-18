@@ -12,5 +12,9 @@ export const MessageTypes = {
   PROJECTILE_REMOVE: 'projectileRemove',
   ENTER_VEHICLE: 'enterVehicle',
   EXIT_VEHICLE: 'exitVehicle',
-  VEHICLE_UPDATE: 'vehicleUpdate'
+  VEHICLE_UPDATE: 'vehicleUpdate',
+  GRAB_GHOST: 'grabGhost',
+  DROP_GHOST: 'dropGhost',
+  THROW_GHOST: 'throwGhost',
+  GHOST_UPDATE: 'ghostUpdate'
 };
