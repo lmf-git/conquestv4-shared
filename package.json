@@ -4,7 +4,8 @@
   "type": "module",
   "main": "index.js",
   "exports": {
-    ".": "./index.js"
+    ".": "./index.js",
+    "./core/models.js": "./core/models.js"
   },
   "scripts": {
     "dev": "echo 'Shared package ready'"
